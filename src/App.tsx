@@ -26,7 +26,7 @@ function App() {
           <LinkItem
             icon={<FaInstagram className='text-xl shrink-0' />}
             name='Instagram'
-            url='https://www.instagram.com/swetony_/'
+            url='https://www.instagram.com/swetonydev/'
           />
         </div>
       </div>
